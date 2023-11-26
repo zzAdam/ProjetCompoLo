@@ -1,6 +1,6 @@
 package com.compolo.compolo.repository;
 
-import com.yourpackage.model.Order;
+import com.compolo.compolo.model.Order;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

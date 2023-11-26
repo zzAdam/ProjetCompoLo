@@ -1,6 +1,6 @@
 package com.compolo.compolo.repository;
 
-import com.yourpackage.model.Book;
+import com.compolo.compolo.model.Book;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
